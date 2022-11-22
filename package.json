@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Cosmits.github.io/resumegit",
+  "homepage": "https://Cosmits.github.io/resume",
   "scripts": {
-    "deploy": " "
+    "deploy": "gh-pages -d resume"
   },
   "keywords": [],
   "author": "",
