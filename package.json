@@ -1,0 +1,16 @@
+{
+  "name": "resume-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://Cosmits.github.io/resumegit",
+  "scripts": {
+    "deploy": " "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
