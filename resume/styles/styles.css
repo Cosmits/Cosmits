@@ -28,7 +28,6 @@ h1 {
     font-weight: 700;
     font-size: 45px;
     line-height: 55px;
-
     color: #000000;
 }
 
@@ -78,14 +77,9 @@ h1 {
     color: #595959;
 }
 
-/* .My-projects-link {
-    margin-left: 10px;
-} */
-
 .My-projects li::marker {
     font-weight: bold;
-    color: #000000;
-    
+    color: #000000;   
 }
 
 .work-position {
@@ -107,6 +101,16 @@ h1 {
     padding: 0;
     margin-left: 15px;
     width: 550px;
+}
+
+.work-details {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+    padding: 0;
+    margin-top: -15px;
 }
 
 .sub-work-list {
@@ -131,7 +135,6 @@ h1 {
     line-height: 15px;
     color: #A8A8A8;
     margin-bottom: 8px;
-
 }
 
 .line {
