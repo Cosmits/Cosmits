@@ -1,4 +1,4 @@
-### **Front-end web developer** 
+### **Full stack web developer** 
 
 <!-- [![Profile badge](https://www.codewars.com/users/Alex_Sim/badges/small)](https://www.codewars.com/users/Cosmits) -->
 [![wakatime](https://wakatime.com/badge/user/e13d9d35-274e-45e2-af04-b7e4f1e9123d.svg)](https://wakatime.com/@e13d9d35-274e-45e2-af04-b7e4f1e9123d)
