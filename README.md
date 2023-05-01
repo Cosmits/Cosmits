@@ -7,6 +7,8 @@
 
 **Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
 
+<img align="left" alt="Hennadii Samofal Waka Codding" src="https://wakatime.com/share/@Cosmits/0437ee86-2345-4a2e-9d4c-f0bc2857e176.png">
+
 **What am I doing these days?** 🤔
 - Learning Node JS ** 
 - Learning React and React Native
@@ -14,8 +16,7 @@
 
 ⚡ Fun quote: Успіх – це здатність крокувати від однієї невдачі до іншої, не втрачаючи ентузіазму. – Вінстон Черчилль.
 
-<img align="left" alt="Hennadii Samofal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&theme=react">
-<img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&theme=react">
+<a href="https://cosmits.github.io/Cosmits"><img align="left" alt="Hennadii Samofal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&bg_color=00000000"></a>
 
-
-
+<a href="https://cosmits.github.io/Cosmits">
+<img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&bg_color=00000000"></a>
