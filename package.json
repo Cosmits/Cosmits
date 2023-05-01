@@ -1,11 +1,11 @@
 {
-  "name": "resume-github",
+  "name": "Cosmits",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Cosmits.github.io/resume",
+  "homepage": "https://Cosmits.github.io/Cosmits",
   "scripts": {
-    "deploy": "gh-pages -d resume"
+    "deploy": "gh-pages -d Cosmits"
   },
   "keywords": [],
   "author": "",
