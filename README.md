@@ -3,7 +3,8 @@
 <!-- [![Profile badge](https://www.codewars.com/users/Alex_Sim/badges/small)](https://www.codewars.com/users/Cosmits) -->
 [![wakatime](https://wakatime.com/badge/user/e13d9d35-274e-45e2-af04-b7e4f1e9123d.svg)](https://wakatime.com/@e13d9d35-274e-45e2-af04-b7e4f1e9123d)
 
-[salge.cos@gmail.com](mailto:salge.cos@gmail.com) | [Skype](https://join.skype.com/invite/yFS7HcgOkEm3) | [Telegram](https://t.me/Cosmitt) 
+[salge.cos@gmail.com](mailto:salge.cos@gmail.com) | [Google CLOUD](https://www.cloudskillsboost.google/public_profiles/7569e3f7-1255-41af-b08f-836efd2e730a) | [Skype](https://join.skype.com/invite/yFS7HcgOkEm3) | [Telegram](https://t.me/Cosmitt) 
+
 
 **Main skills**: `HTML` | `CSS` | `JavaScript` | `Node.js` | `React` | `Express`
  
