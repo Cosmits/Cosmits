@@ -8,7 +8,7 @@
 
 **Main skills**: `HTML` | `CSS` | `JavaScript` | `Node.js` | `React` | `Express`
  
-<img align="center" alt="Hennadii Samofal Waka Codding" src="https://wakatime.com/share/@Cosmits/0437ee86-2345-4a2e-9d4c-f0bc2857e176.png" >
+<!-- <img align="center" alt="Hennadii Samofal Waka Codding" src="https://wakatime.com/share/@Cosmits/0437ee86-2345-4a2e-9d4c-f0bc2857e176.png" > -->
  
  
 ## **What am I doing these days?** 🤔
