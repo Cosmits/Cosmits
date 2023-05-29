@@ -34,4 +34,4 @@
 <a href="https://cosmits.github.io/Cosmits">
 <img align="center" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&bg_color=00000000"></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cosmits&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cosmits&theme=transparent)](https://git.io/streak-stats)
