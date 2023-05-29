@@ -29,9 +29,9 @@
 
 ⚡ Fun quote: Успіх – це здатність крокувати від однієї невдачі до іншої, не втрачаючи ентузіазму. – Вінстон Черчилль.
 
-<a href="https://cosmits.github.io/Cosmits"><img align="center" alt="Hennadii Samofal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&bg_color=00000000"></a>
+<a href="https://cosmits.github.io/Cosmits"><img align="left" alt="Hennadii Samofal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&bg_color=00000000"></a> <a href="https://cosmits.github.io/Cosmits">
+<img height="196" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&bg_color=00000000"></a>  
+
 
 <a href="https://cosmits.github.io/Cosmits">
-<img align="center" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&bg_color=00000000"></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cosmits&theme=transparent)](https://git.io/streak-stats)
+<img align="center" alt="Top languages" src="https://github-readme-streak-stats.herokuapp.com?user=Cosmits&theme=transparent"></a>  
