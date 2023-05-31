@@ -1,3 +1,8 @@
+:root {
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  --animation-duration: 250ms;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   position: relative;
@@ -67,7 +72,8 @@ body {
   justify-content: space-between;
   flex-direction: column;
 }
-.project-text{
+
+.project-text {
   margin: 0 auto;
 }
 
@@ -172,10 +178,28 @@ body {
 
 /* sidebar */
 .sidebar {
-  padding: 40px 0;
+  /* padding: 40px 0; */
   /* width: 370px; */
+  padding-bottom: 40px;
   background-color: #1E2939;
   color: #FFFFFF;
+}
+
+.download-pdf {
+  display: block;
+  margin: 12px 24px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #FFFFFF;
+  transition: color var(--animation-duration) var(--timing-function);
+}
+
+.download-pdf:hover,
+.download-pdf:focus {
+  color: #FB6D3A;
 }
 
 .sidebar img {
@@ -225,6 +249,15 @@ body {
   opacity: 0.5;
 }
 
+.cert-link {
+  opacity: 1;
+  font-size: 16px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  
+}
+
 .list-TechSkills li::marker,
 .list-SoftSkills li::marker {
   color: #FB6D3A;
@@ -247,4 +280,14 @@ body {
   margin-top: 47px;
   margin-left: 40px;
   padding: 0;
+}
+
+.list-certifications {
+  list-style: none;
+  margin-left: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  row-gap: 8px;
 }
