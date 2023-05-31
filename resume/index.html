@@ -16,7 +16,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles/styles.css">
   <link rel="stylesheet" href="./styles/desktop.css">
-  <title>Resume, Hennadii Samofal, JavaScript Developer</title>
+  <title>Resume, Hennadii Samofal, Full stack JavaScript Developer</title>
 </head>
 
 <body>
@@ -41,13 +41,19 @@
               src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&bg_color=00000000" /></a>
           <div class="About-img-for-flex">
             <a href="http://github.com/Cosmits">
-              <img class="img4"
+              <img class="img3" width="279px"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&bg_color=00000000" /></a>
-            <span class="About-quote">
-              I want to be part of a team in which I could develop and learn
-              something new. Switch to JavaScript developer after more 10 years 1C
-              development. I have good developer skills.</span>
+            <a href="http://github.com/Cosmits">
+              <img class="img3" width="384px" alt="Top languages"
+                src="https://github-readme-streak-stats.herokuapp.com?user=Cosmits&theme=transparent"></a>
           </div>
+          <p class="About-quote">
+            I dreamed about a computer at school, - I studied programming at university, - I am currently working in IT.
+            I know a lot about computers and a lot of computers know me.</p>
+          <p class="About-quote">
+            I want to be part of a team in which I could develop and learn
+            new technological stack. Switch to JS after more, then 10 years 1C
+            development. I have good developer skills and motivations.</p>
 
         </div>
       </div>
@@ -57,13 +63,21 @@
       <div class="My-projects">
         <h3 class="title">Projects</h3>
         <ol class="project-list">
+          <li>
+            <p class="project-text">Work with Telegram bot API. Add any functions: menu, answers, mini game,
+              send and receive any format data, work with any keyboards.</p>
+          </li>
           <li class="project-item">
             <a class="My-projects-link" href="https://github.com/Cosmits/test-telegram-bot">
               Node.js TEST Telegram Bot</a>
             <div class="My-projects-dots"></div>
             <div class="My-projects-tech"><b>[</b>Telegram-bot-api, postgres, sequelize<b>]</b></div>
-
           </li>
+          <li>
+            <p class="project-text">Work with Telegram bot API. Add any functions: menu, answers, mini game,
+              send and receive any format data, work with any keyboards.</p>
+          </li>
+
           <li class="project-item">
             <a class="My-projects-link" href="https://github.com/Cosmits/REST-API-Autorization_REACT">
               REST API Autorization (Back-end)</a>
@@ -77,6 +91,9 @@
               REST API Autorization (Front-end)</a>
             <div class="My-projects-dots"></div>
             <div class="My-projects-tech"><b>[</b>REACT, TypeScript, Axios, Mobx<b>]</b></div>
+          </li>
+          <li>
+            <p class="project-text">Front-end written on React + TypeScript + Axios + Mobx. Back-end written on Express</p>
           </li>
           <li class="project-item">
             <a class="My-projects-link" href="https://github.com/Cosmits/BandaPixels-REST-API">
@@ -333,7 +350,7 @@
           programming
         </div>
         <p class="work-list">Bachelor's degree</p>
-        <p class="work-list">Specialist's degree</p>
+        <!-- <p class="work-list">Specialist's degree</p> -->
         <h4 class="work-position">
           CHERKASY EAST EUROPEAN UNIVERSITY
           <span class="organizatiob">  Ukraine</span>
@@ -348,7 +365,7 @@
 
     <!-- Sidebar -->
     <aside class="sidebar">
-      <img src="./img/Photo2.jpg" alt="My photo">
+      <img src="./img/Photo1.jpg" alt="My photo">
       <!-- Contacts  -->
       <div class="contact">
         <h2>Contacts</h2>
@@ -358,7 +375,10 @@
             <svg class="contact-btn-svg" width="28" height="28">
               <use href="./img/symbol-defs.svg#phone"></use>
             </svg>
-            <a href="tel:+380979947527" class="contact-link">+38 097 994-75-27</a>
+            <div>
+              <a href="tel:+380979947527" class="contact-link">+38 097 994-75-27</a>
+              <a href="tel:+48886844325" class="contact-link">+48 886-844-325</a>
+            </div>
           </div>
           <div class="contact-wrap">
             <svg class="contact-btn-svg" width="28" height="28">
@@ -368,9 +388,15 @@
           </div>
           <div class="contact-wrap">
             <svg class="contact-btn-svg" width="28" height="28">
+              <use href="./img/symbol-defs.svg#linkedin"></use>
+            </svg>
+            <a href="https://www.linkedin.com/in/hennadii-samofal-a7b564278" class="contact-link">LinkedIn</a>
+          </div>
+          <div class="contact-wrap">
+            <svg class="contact-btn-svg" width="28" height="28">
               <use href="./img/symbol-defs.svg#github"></use>
             </svg>
-            <a href="https://github.com/Cosmits" class="contact-link">Hennadii Samofal (Cosmits)</a>
+            <a href="https://github.com/Cosmits" class="contact-link">GitHub</a>
           </div>
           <div class="contact-wrap">
             <svg class="contact-btn-svg" width="28" height="28">
@@ -381,9 +407,9 @@
           </div>
           <div class="contact-wrap">
             <svg class="contact-btn-svg" width="28" height="28">
-              <use href="./img/symbol-defs.svg#telegram"></use>
+              <use href="./img/symbol-defs.svg#telegram2"></use>
             </svg>
-            <a href="https://t.me/Cosmitt" class="contact-link">Hennadii Samofal (Cosmitt)</a>
+            <a href="https://t.me/Cosmitt" class="contact-link">Telegram</a>
           </div>
         </div>
       </div>
@@ -392,12 +418,15 @@
       <div class="TechSkills">
         <h2>Tech Skills</h2>
         <ul class="list-TechSkills">
-          <li>HTML5/CSS</li>
-          <li>JavaScript</li>
-          <li>Git</li>
-          <li>Docker</li>
+          <li>JavaScript / TypeScript / Node.js</li>
+          <li>HTML5 / CSS</li>
+          <li>Git / GitHub</li>
           <li>React</li>
-          <li>Node.js</li>
+          <li>Express</li>
+          <li>Docker</li>
+          <li>MongoBD / PostgreSQL</li>
+          <li>Webpack / Parcel / Vite</li>
+          <li>Linux / Windows servers</li>
         </ul>
       </div>
       <!-- Soft Skills -->
@@ -405,15 +434,16 @@
         <h2>Soft Skills</h2>
         <ul class="list-SoftSkills">
           <li>Teamwork</li>
-          <li>Scrum</li>
-          <li>Creative thinking</li>
+          <li>Agile / Scrum</li>
+          <li>Creativity</li>
+          <li>Analytical thinking</li>
         </ul>
       </div>
       <!-- Lang Skills -->
       <div class="SoftSkills">
         <h2>Languages</h2>
         <ul class="list-SoftSkills">
-          <li>English  (B1)</li>
+          <li>English  (Intermediate)</li>
           <li>Ukrainian  (native)</li>
           <li>Russian</li>
         </ul>

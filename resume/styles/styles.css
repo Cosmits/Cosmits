@@ -57,7 +57,7 @@ body {
 
 .About-quote {
   font-size: 18px;
-
+  text-indent: 20px;
   display: block;
   margin: auto 0;
 }
@@ -66,6 +66,9 @@ body {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
+}
+.project-text{
+  margin: 0 auto;
 }
 
 
@@ -202,10 +205,11 @@ body {
 
 .contact-wrap {
   display: flex;
+  align-items: center;
   gap: 12px;
 }
 
-.contact-wrap + .contact-wrap {
+.contact-wrap+.contact-wrap {
   margin-top: 12px;
 }
 

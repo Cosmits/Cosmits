@@ -36,6 +36,8 @@
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
 <img alt="WebStorm" width="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" >
   </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img alt="Postman" width="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" > </a>
 </p>
 
 ![Alt text](resume/img/github-contribution-grid-snake.svg)
@@ -57,7 +59,8 @@
 
 ⚡ Fun quote: Успіх – це здатність крокувати від однієї невдачі до іншої, не втрачаючи ентузіазму. – Вінстон Черчилль.
 
-<a href="https://cosmits.github.io/Cosmits"><img align="left" alt="Hennadii Samofal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&bg_color=00000000"></a> <a href="https://cosmits.github.io/Cosmits">
+<a href="https://cosmits.github.io/Cosmits"><img align="left" alt="Hennadii Samofal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cosmits&show_icons=true&bg_color=00000000"></a> 
+<a href="https://cosmits.github.io/Cosmits">
 <img height="196" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmits&layout=compact&bg_color=00000000"></a>  
 
 
