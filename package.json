@@ -5,12 +5,16 @@
   "main": "index.js",
   "homepage": "https://Cosmits.github.io/Cosmits",
   "scripts": {
-    "deploy": "gh-pages -d resume"
+    "deploy": "gh-pages -d resume",
+    "watch:sass": "node-sass -w resume/styles/btndraw.scss resume/styles/btndraw.css"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
   }
 }
